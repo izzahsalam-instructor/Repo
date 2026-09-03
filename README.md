@@ -1,3 +1,3 @@
 # Repo
 Learning github
-![Alt text](https://github.com/username/repository/blob/main/image.png?raw=true)
+![Alt text](https://myoctocat.com/assets/images/base-octocat.svg)
